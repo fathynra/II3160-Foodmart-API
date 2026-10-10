@@ -1,3 +1,4 @@
-        <p>Copyright 2023 STI ITB</p>
-    </body>
-</HTML>
+<hr>
+<p>Copyright 2026 STI ITB</p>
+</body>
+</html>
